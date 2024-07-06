@@ -1,0 +1,40 @@
+Effective Date: 06.07.2024
+
+We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains what data is collected by the Discord bot PulsePilot (hereinafter referred to as the "Bot"), how it is used, and how we protect your information.
+
+1. Data Collection
+1.1 Personal Data: The Bot may collect the following data:
+
+Discord usernames
+Discord user IDs
+Content of messages sent through the Bot
+1.2 Technical Data: The Bot automatically collects the following data:
+
+Timestamps of usage
+Logs of interactions with the Bot
+2. Data Usage
+2.1 Purpose of Use: The collected data may be used for:
+
+Ensuring the Bot's functionality
+Improving the quality and features of the Bot
+Analyzing Bot usage for statistical and analytical purposes
+Maintaining security and preventing fraud
+2.2 Data Sharing: We do not sell or transfer your personal data to third parties, except as required by law or when necessary to ensure the Bot's operation.
+
+3. Data Protection
+3.1 Security Measures: We take reasonable measures to protect your data from unauthorized access, alteration, disclosure, or destruction. These measures include the use of encryption technologies and other security protocols.
+
+3.2 Data Retention: We retain your data only as long as necessary to fulfill the purposes described in this Privacy Policy or as required by law.
+
+4. User Rights
+4.1 Access and Correction: You have the right to request access to your personal data, as well as to request its correction or deletion.
+
+4.2 Withdrawal of Consent: You may withdraw your consent to data processing at any time by contacting us using the contact information provided below.
+
+5. Changes to the Privacy Policy
+5.1 We reserve the right to modify this Privacy Policy at any time. Any changes will be posted on this page with an updated effective date.
+
+6. Contact Information
+If you have any questions or suggestions regarding this Privacy Policy, please contact us at kmetion.86@list.ru.
+
+Thank you for using PulsePilot!
